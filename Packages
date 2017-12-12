@@ -1,0 +1,29 @@
+Package: com.jake.penguin
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: com.anemonetheming.anemone
+Filename: /Hi.deb
+Size: 565272
+MD5sum: 65007e150fa6e5b58dff126576fc3580
+SHA1: 5eff57cf78c23e464e87972ba6e7ffdc5d0c4321
+SHA256: 10abb3fcb8210f70676d6b1e456e8ababac66fe20c596f6f7b19b7035e7e2a2c
+Section: Themes
+Description: Penguin are cool!
+Author: Jake <jenkinsjake04@gmail.com>
+Name: The Penguin's Theme
+
+Package: com.jake.alert
+Name: Alert
+Depends: mobilesubstrate
+Filename: /Alert.deb
+MD5sum: 8eaa31500c6ee1c0a55ae3372717de7b
+SHA1: 3f469551402faac11a1c44bbec0b18703cd1387a
+SHA256: a37c397c302e00a4f5376975bd1ed68436683e64f0194098ede4eda102e5e63a
+Size: 3492
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: This is a test tweak!
+Maintainer: Jake
+Author: Jake
+Section: Tweaks
+
